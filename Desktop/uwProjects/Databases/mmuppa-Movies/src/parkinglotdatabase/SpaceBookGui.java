@@ -31,12 +31,6 @@ import net.sourceforge.jdatepicker.impl.UtilDateModel;
 
 
 public class SpaceBookGui extends JFrame implements ActionListener, TableModelListener{
-
-	public static void main(String[] args) throws SQLException {
-		// TODO Auto-generated method stub
-		SpaceBookGui gui = new SpaceBookGui();
-		gui.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-	}
 	/**
 	 * Serial version UID
 	 */
